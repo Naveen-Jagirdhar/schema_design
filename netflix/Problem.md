@@ -1,6 +1,6 @@
 # Design Database Schema for a system like Netflix with the following Use Cases.
 
-<h5>Usecase</h5>
+<h3>Usecase</h3>
   <li>Netflix has users</li>
   <li>Every user has an email and a password</li>
   <li>Users can create profiles to have separate independent environments.</li>
@@ -10,3 +10,6 @@
   <li>A cast is a list of actors who were a part of the video. For each actor, we need to know their name and list of videos they were a part of.</li>
   <li>For every video, for any profile who watched that video, we need to know the status (COMPLETED/ IN PROGRESS).</li>
   <li>For every profile for whom a video is in progress, we want to know their last watch timestamp.</li>
+
+
+<h3>Solution</h3>
