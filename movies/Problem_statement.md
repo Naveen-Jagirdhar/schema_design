@@ -14,5 +14,5 @@
       <li> What are the 10 most recent movies that George Clooney starred in?</li>
 </div>
 
-<h4>Solution</h4>
+# solution
 ![movie_database.svg](movie_database.svg)
