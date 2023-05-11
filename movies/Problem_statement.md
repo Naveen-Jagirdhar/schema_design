@@ -8,4 +8,4 @@ Who acted in Fight Club (1999)?
 What are the 10 most recent movies that George Clooney starred in?</h4>
 
 # Solution
-![Untitled Diagram.drawio.svg](Untitled%20Diagram.drawio.svg)
+![movie_database.svg](movie_database.svg)
